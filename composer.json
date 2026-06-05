@@ -1,0 +1,16 @@
+{
+    "name": "gianl/progetto-personale",
+    "require": {
+        "firebase/php-jwt": "^6.0"
+    },
+    "config": {
+        "policy": {
+            "advisories": {
+                "block": false
+            }
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
